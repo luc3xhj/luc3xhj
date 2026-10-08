@@ -12,7 +12,7 @@
 
 **创业经历：**
 
-1. **[Eddifi AI](https://eddi.org)** 创始工程师，获 **Samvid Ventures**、**Forum Ventures** 支持。帮助以使命为导向的机构实现可持续融资、扩大社会影响力。服务覆盖美国 14 个州，影响超过 10 万人。
+1. **[Eddifi AI](https://eddi.org)** 创始工程师，获 **[Samvid Ventures](https://www.samvid.ventures/)**、**[Forum Ventures](https://www.forumvc.com/)** 支持。帮助以使命为导向的机构实现可持续融资、扩大社会影响力。服务覆盖美国 14 个州，影响超过 10 万人。
 2. **[Aayats](https://aayats.com)** 联合创始人兼 CTO，获 **[Techstars](https://www.techstars.com/)** 支持。AI 驱动的音乐交易与服务平台，为创作者集中匹配适合的伴奏、录音室、制作人、词曲作者等资源。
 
 **教育：**
