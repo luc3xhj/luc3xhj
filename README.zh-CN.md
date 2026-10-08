@@ -2,7 +2,7 @@
 
 做产品、创办公司，把想法做出来，并从实践中学习。
 
-[个人网站](https://hjinlucas.github.io) · [LinkedIn](https://www.linkedin.com/in/lucas-jinhao/) · [X](https://x.com/luc3xhj) · [English](README.md)
+[个人网站](https://luc3xhj.github.io) · [LinkedIn](https://www.linkedin.com/in/lucas-jinhao/) · [X](https://x.com/luc3xhj) · [English](README.md)
 
 **目前在做**：
 

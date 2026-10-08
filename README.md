@@ -2,7 +2,7 @@
 
 I build products, start businesses, and learn by putting things into the world.
 
-[Website](https://hjinlucas.github.io) · [LinkedIn](https://www.linkedin.com/in/lucas-jinhao/) · [X](https://x.com/luc3xhj) · [中文](README.zh-CN.md)
+[Website](https://luc3xhj.github.io) · [LinkedIn](https://www.linkedin.com/in/lucas-jinhao/) · [X](https://x.com/luc3xhj) · [中文](README.zh-CN.md)
 
 **Working on now**:
 1. **[Foundshore](https://foundshore.com)**: The missing pieces for AI startups: connecting founders with people, capital, resources, tools, and services to build and grow across markets.
