@@ -6,8 +6,9 @@ I build products, start businesses, and learn by putting things into the world.
 
 **Working on now**:
 1. **[Foundshore](https://foundshore.com)**: The missing pieces for AI startups: connecting founders with people, capital, resources, tools, and services to build and grow across markets.
-2. **[Pitchvia](https://pitchvia.com)**: Agents review your deck and customize your outreach pipeline from a 15,000 + investors pool, all automated.
-3. **[Feiqo](https://feiqo.com)**: Agents build trust and get leads for your products.
+2. **[Meridian Startups](https://meridianstartups.com)**: Open-source projects for startup founders, developers, indie hackers, and vibe coders.
+3. **[Pitchvia](https://pitchvia.com)**: Agents review your deck and customize your outreach pipeline from a 15,000 + investors pool, all automated.
+4. **[Feiqo](https://feiqo.com)**: Agents build trust and get leads for your products.
 
 **Startup Experience:**
 1. Fouding Engineer @ **[Eddifi AI](https://eddi.org)**, Backed by **[Samvid Ventures](https://www.samvid.ventures/)**, **[Forum Ventures](https://www.forumvc.com/)**

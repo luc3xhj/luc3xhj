@@ -7,8 +7,9 @@
 **目前在做**：
 
 1. **[Foundshore](https://foundshore.com)**：补齐 AI 创业路上的关键拼图，连接人才、资金、资源、工具与服务，帮助创业者跨市场构建产品、发展业务。
-2. **[Pitchvia](https://pitchvia.com)**：用 Agent 评审你的 Pitch Deck，并从 15,000 多名投资人的数据库中，为你定制投资人联系与跟进流程，全流程自动化。
-3. **[Feiqo](https://feiqo.com)**：用 Agent 为你的产品建立信任、获取潜在客户。
+2. **[Meridian Startups](https://meridianstartups.com)**：面向创业者、开发者、独立创客和 Vibe Coders 的实用开源项目。
+3. **[Pitchvia](https://pitchvia.com)**：用 Agent 评审你的 Pitch Deck，并从 15,000 多名投资人的数据库中，为你定制投资人联系与跟进流程，全流程自动化。
+4. **[Feiqo](https://feiqo.com)**：用 Agent 为你的产品建立信任、获取潜在客户。
 
 **创业经历：**
 
