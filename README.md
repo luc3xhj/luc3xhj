@@ -1,6 +1,6 @@
 **I'm Lucas, Founder, software engineer, and indie hacker.**
 
-I build products, start businesses, and learn by putting things into the world, started since 2013.
+I build products, start businesses, and learn by putting things into the world.
 
 [Website](https://hjinlucas.github.io) · [LinkedIn](https://www.linkedin.com/in/lucas-jinhao/) · [X](https://x.com/luc3xhj) · [中文](README.zh-CN.md)
 
