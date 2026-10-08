@@ -2,7 +2,7 @@
 
 **创始人、软件工程师，也是一名独立开发者。**
 
-[个人网站](https://www.lucasjin.com) · [LinkedIn](https://www.linkedin.com/in/lucas-jinhao/) · [English](README.md)
+[个人网站](https://www.lucasjin.com) · [LinkedIn](https://www.linkedin.com/in/lucas-jinhao/) · [X](https://x.com/luc3xhj) · [English](README.md)
 
 我喜欢观察问题、做产品、创办公司，也习惯把想法做出来，再从真实的反馈中学习。我的工作主要围绕 AI 应用、SaaS、移动应用，以及帮助创业者推进产品和业务的工具与社区。
 

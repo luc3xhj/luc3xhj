@@ -2,7 +2,7 @@
 
 **Founder, software engineer, and indie hacker.**
 
-[Website](https://www.lucasjin.com) · [LinkedIn](https://www.linkedin.com/in/lucas-jinhao/) · [中文](README.zh-CN.md)
+[Website](https://www.lucasjin.com) · [LinkedIn](https://www.linkedin.com/in/lucas-jinhao/) · [X](https://x.com/luc3xhj) · [中文](README.zh-CN.md)
 
 I build products, start businesses, and learn by putting things into the world. My work spans AI applications, SaaS, mobile apps, and the tools and communities that help founders move forward.
 
